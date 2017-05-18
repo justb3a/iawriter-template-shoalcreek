@@ -106,6 +106,7 @@ code, pre {
 
 code {
   padding: .2em;
+  white-space: pre-wrap;
 }
 
 pre {
